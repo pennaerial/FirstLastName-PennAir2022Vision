@@ -6,7 +6,7 @@
 
 Welcome to the 2022 Penn Aerial Robotics software challenge! The goal of this challenge is not only for the board to best assess your fit for the software team, but also for you to get a taste for the types of projects that you will be asked to tackle as a member of the team.
 
-Take however long you want to work on the challenge. If you can’t complete the challenge, don’t worry—it’s meant to be difficult. Remember we are looking for commitment and willingness to learn, not previous knowledge, so don’t get discouraged if you’re having trouble. We’ve provided resources below to help you and are looking for you to give this your best effort. Submit however much you can complete. Be **prepared** to talk about your code and to explain how you arrived at your solution.
+Take however long you want to work on the challenge. If you can’t complete the full challenge, don’t worry—it’s meant to be difficult. Remember we are looking for commitment and willingness to learn, not previous knowledge, so don’t get discouraged if you’re having trouble. We’ve provided resources below to help you and are looking for you to give this your best effort. Submit however much you can complete. Be **prepared** to talk about your code and to explain how you arrived at your solution.
 
 
 # Submission
@@ -32,7 +32,7 @@ If you have clarification questions or are in need of any assistance, don’t he
 
 # Resources
 
-Feel free to use whatever outside resources you wish. In fact, we highly recommend that you do research into the subject of how QR codes work. You can use snippets of code you find online, whatever libraries you want, and **any programming language**. However, be ready to explain how your code works. Commenting your code is also good practice and can help you understand what you’re doing. You might find the following websites useful:
+Feel free to use whatever outside resources you wish. In fact, we highly recommend that you do research into the subject of how QR codes work. You can follow guides you find online, whatever libraries you want, and **any programming language**. However, be ready to explain how your code works. Commenting your code is also good practice and can help us (and you) understand what you’re doing. You might find the following websites useful:
 
 [http://dsynflo.blogspot.com/2014/10/opencv-qr-code-detection-and-extraction.html](http://dsynflo.blogspot.com/2014/10/opencv-qr-code-detection-and-extraction.html)
 
