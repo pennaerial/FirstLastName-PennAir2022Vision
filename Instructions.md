@@ -1,4 +1,4 @@
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](logos/image1.png "image_tooltip")
 
 
 
@@ -54,7 +54,7 @@ Previously, at the IARC 2020 competition, one of our challenges was to identify 
 The challenge is split into three parts, but **the first part is optional. You should attempt to complete parts two and three first, and only attempt part one if you want an extra challenge.**
 
 
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](logos/image2.png "image_tooltip")
 
 
 Figure 1 - visualization of a solution to parts 1 and 2. Your solution may be different.
