@@ -11,7 +11,7 @@ Take however long you want to work on the challenge. If you can’t complete the
 
 # Submission
 
-Please **submit a zip file** containing your code on the google form with your application by **11:59 p.m. Wednesday, September 14th**:
+Please **submit a zip file** containing your code on the google form with your application by **11:59 p.m. Sunday, September 11th**:
 
 Please include your full name in the title of your zip file.
 
@@ -27,7 +27,7 @@ Please also include a README file in your submission with the following:
 
 # Support
 
-If you have clarification questions or are in need of any assistance, don’t hesitate to reach out! Feel free to email [anpans@seas.upenn.edu](mailto:anpans@seas.upenn.edu) or [daveshv@seas.upenn.edu](mailto:daveshv@seas.upenn.edu).
+If you have clarification questions or are in need of any assistance, don’t hesitate to reach out! Especially if you have trouble during figuring out how to use GitHub. We want to challenge you with the coding challenge, not with the setup. Feel free to email [anpans@seas.upenn.edu](mailto:anpans@seas.upenn.edu) or [daveshv@seas.upenn.edu](mailto:daveshv@seas.upenn.edu).
 
 
 # Resources
