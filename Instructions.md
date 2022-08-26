@@ -6,7 +6,7 @@
 
 Welcome to the 2022 Penn Aerial Robotics software challenge! The goal of this challenge is not only for the board to best assess your fit for the software team, but also for you to get a taste for the types of projects that you will be asked to tackle as a member of the team.
 
-Take however long you want to work on the challenge. If you can’t complete the full challenge, don’t worry—it’s meant to be difficult. Remember we are looking for commitment and willingness to learn, not previous knowledge, so don’t get discouraged if you’re having trouble. We’ve provided resources below to help you and are looking for you to give this your best effort. Submit however much you can complete. Be **prepared** to talk about your code and to explain how you arrived at your solution.
+Take however long you want to work on the challenge. If you can’t complete the full challenge, don’t worry—it’s meant to be difficult. Remember we are looking for commitment and willingness to learn, not previous knowledge, so don’t get discouraged if you’re having trouble. We’ve provided resources below to help you and are looking for you to give this your best effort. **Submit however much you can complete.** Be prepared to talk about your code and to explain how you arrived at your solution.
 
 
 # Submission
