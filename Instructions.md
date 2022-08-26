@@ -32,7 +32,7 @@ If you have clarification questions or are in need of any assistance, don’t he
 
 # Resources
 
-Feel free to use whatever outside resources you wish. In fact, we highly recommend that you do research into the subject of how QR codes work. You can follow guides you find online, whatever libraries you want, and **any programming language**. However, be ready to explain how your code works. Commenting your code is also good practice and can help us (and you) understand what you’re doing. You might find the following websites useful:
+Feel free to use whatever outside resources you wish. In fact, we highly recommend that you do research into the subject of how QR codes work. A large part of being on this team is learning how to do research and figure things out. You can use whatever guides you find online, whatever libraries you want, and **any programming language**. However, you must fully understand how your code works because you will be asked to explain it. Commenting your code is also good practice and can help us (and you) understand what you’re doing. You might find the following websites useful:
 
 [http://dsynflo.blogspot.com/2014/10/opencv-qr-code-detection-and-extraction.html](http://dsynflo.blogspot.com/2014/10/opencv-qr-code-detection-and-extraction.html)
 
