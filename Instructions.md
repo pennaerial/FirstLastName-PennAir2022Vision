@@ -76,6 +76,6 @@ Now that you know where the QR code pieces are in the image, you need to extract
 
 We will leave this part open ended. Your goal is to decode the information contained in the images generated in part 2.
 
-**UPDATE: The easiest solution is to use your phone's scanner to scan the QR code and decode the information.**
+**UPDATE: We know some people have had trouble decoding their QR codes. If you cannot solve this, try to output an image which is good enough that you are able to read the QR code with your phone.**
 
 Hint: The QR code encodes a 4 digit number. You might not need to read the whole QR code to find that number.
